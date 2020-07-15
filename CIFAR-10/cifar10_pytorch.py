@@ -1,3 +1,1 @@
-test
-
-test1
+print('nqvuong99qn')
